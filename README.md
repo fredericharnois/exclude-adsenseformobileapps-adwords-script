@@ -1,3 +1,5 @@
+**Important Note:** As of September 2018, Google has [deprecated the adsenseformobileapps.com placement exclusion](https://support.google.com/google-ads/answer/9051067), rendering this script obsolete. 
+
 # Exclude adsenseformobileapps.com AdWords Script
 
 This script was built to ensure adsenseformobileapps.com is systematically excluded from display campaigns.
